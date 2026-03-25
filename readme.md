@@ -8,11 +8,11 @@ Linkki projektin videoesittelyyn [google.com](https://google.com)
 
 
 ## Oma arvio työstä ja oman osaamisen kehittymisestä
-Mielestäni onnistuin...
-Parantamista olisi: UI ja CSS olisi vielä parannettavaa.
-Sovelluksesta jäi puuttumaan...
-Koen, että olen oppinut...
-Epäselväksi jäi...
+Mielestäni onnistuin hyvin dom skriptauksessa
+Parantamista olisi: UI ja CSS olisi vielä parannettavaa. Bootstrappia voisi myös opetella käyttämään enemmän.
+Sovelluksesta jäi puuttumaan tiedon tallennetaan selaimeen, esim. localstorageen.
+Koen, että olen oppinut, kuinka julkaista Netlify palvelussa. 
+Epäselväksi jäi en kerennyt katsoa miten Listan tiedot localstorageen
 Antaisin itselleni pisteitä seuraavasti: xx/yy p
 
 ## Palaute opettajalle kurssista sekä itse opetuksesta tähän saakka
@@ -32,10 +32,10 @@ Oppimistani tukisi jos...
 - [Lisenssi](#lisenssi)
 
 ## Tietoja sovelluksesta
-[Projektin nimi] on sovellus, joka ...
+Todo-lista on sovellus, joka kirjaa ylös käyttäjän haluamat tehtävät. Se antaa myös käyttäjän poistaa, lisätä ja yliviivata tehdyt tehtävät.
 
 ## Tunnetut virheet/bugit
-Kerro jos tiedät sovelluksessa olevan jotain, mikä ei toimi tai toimii heikosti
+En itse törmännyt bugeihin. 
 
 ## Kuvakaappaukset
 Lisää tähän vähintään yksi kuvakaappaus toimivasta sovelluksesta  
@@ -46,13 +46,6 @@ Kuva: [Kelly Sikkema](https://unsplash.com/@kellysikkema)
 ## Teknologiat
 Kuvaa, mitä teknologioita käytettiin ja mikä oli niiden rooli projektissasi.  
 Käytin seuraavia teknologioita: `html`, `css`, ...
-
-## Asennus
-Kirjoita lyhyet ohjeet sovelluksen käynnistämiseen ja käyttöön. Esimerkiksi:  
-- lataa kaikki tiedostot ja avaa index.html selaimessasi  
-- lataa tai kloonaa repositorio  
-- suorita `npm install`  
-- ...
 
 ## Kiitokset
 Lista lähteistä ja esimerkeistä, joita käytit projektin aikana. Mainitse myös, jos käytit ChatGPT:tä tai muita tekoälytyökaluja koodauksen aikana ja kerro, miten ne auttoivat sinua.  

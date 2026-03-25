@@ -1,26 +1,27 @@
 function validateForm(e) {
   e.preventDefault();
 
-    document.getElementById("errorviesti").innerText = "";
-    document.getElementById("task").style.border = "";
+  document.getElementById("errorviesti").innerText = "";
+  document.getElementById("task").style.border = "";
 
   const tehtava = document.getElementById("task").value.trim();
   let valid = true;
 
   if (tehtava === "") {
     document.getElementById("task").style.border = "2px solid red";
-    document.getElementById("errorviesti").innerText = "Kenttä ei saa olla tyhjä!";
+    document.getElementById("errorviesti").innerText =
+      "Kenttä ei saa olla tyhjä!";
     valid = false;
   } else if (tehtava.length < 3) {
     document.getElementById("task").style.border = "2px solid red";
-    document.getElementById("errorviesti").innerText = "Tehtävän pitää olla vähintään 3 merkkiä!";
+    document.getElementById("errorviesti").innerText =
+      "Tehtävän pitää olla vähintään 3 merkkiä!";
     valid = false;
   }
-
   if (!valid) {
-    e.preventDefault();
-      return;
+    return;
   }
+
   const uusiTehtava = document.createElement("li");
   uusiTehtava.innerText = tehtava;
 
@@ -30,9 +31,10 @@ function validateForm(e) {
 
   poistaNappi.onclick = function () {
     uusiTehtava.remove();
+  };
 
+  uusiTehtava.appendChild(poistaNappi);
   document.getElementById("list").appendChild(uusiTehtava);
 
   document.getElementById("task").value = "";
 }
-;

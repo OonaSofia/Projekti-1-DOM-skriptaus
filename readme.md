@@ -1,16 +1,14 @@
 # Projektin nimi ja tekijät
-Projektin nimi ja kaikki mukana olevat tekijät. 
+Tämän projektin nimi on Projekti 1: DOM-skriptaus, tekijä: Oona Kärkkäinen
 
 ## Verkkolinkit:
 Pääset julkaistuun sovellukseen käsiksi osoitteessa [google.com](https://google.com)
 Linkki projektin videoesittelyyn [google.com](https://google.com)
 
-## Työn jakautuminen 
-Miten työmäärä jaettiin? Kuka teki mitä? Miten yhteistyö sujui?
 
 ## Oma arvio työstä ja oman osaamisen kehittymisestä
 Mielestäni onnistuin...
-Parantamista olisi...
+Parantamista olisi: UI ja CSS olisi vielä parannettavaa.
 Sovelluksesta jäi puuttumaan...
 Koen, että olen oppinut...
 Epäselväksi jäi...

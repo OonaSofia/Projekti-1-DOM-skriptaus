@@ -24,6 +24,13 @@ function validateForm(e) {
   const uusiTehtava = document.createElement("li");
   uusiTehtava.innerText = tehtava;
 
+  const poistaNappi = document.createElement("button");
+  poistaNappi.innerText = "Poista";
+  poistaNappi.type = "button";
+
+  poistaNappi.onclick = function () {
+    uusiTehtava.remove();
+
   document.getElementById("list").appendChild(uusiTehtava);
 
   document.getElementById("task").value = "";

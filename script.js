@@ -17,6 +17,7 @@ function validateForm(e) {
 
   if (!valid) {
     e.preventDefault();
+      return;
   }
   const uusiTehtava = document.createElement("li");
   uusiTehtava.innerText = tehtava;

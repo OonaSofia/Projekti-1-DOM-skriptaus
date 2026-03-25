@@ -1,4 +1,6 @@
 function validateForm(e) {
+  e.preventDefault();
+
     document.getElementById("errorviesti").innerText = "";
     document.getElementById("task").style.border = "";
 

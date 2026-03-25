@@ -8,7 +8,7 @@ Linkki projektin videoesittelyyn [google.com](https://google.com)
 
 
 ## Oma arvio työstä ja oman osaamisen kehittymisestä
-Mielestäni onnistuin hyvin dom skriptauksessa
+Mielestäni onnistuin hyvin dom skriptauksessa.
 Parantamista olisi: UI ja CSS olisi vielä parannettavaa. Bootstrappia voisi myös opetella käyttämään enemmän.
 Sovelluksesta jäi puuttumaan tiedon tallennetaan selaimeen, esim. localstorageen.
 Koen, että olen oppinut, kuinka julkaista Netlify palvelussa. 
@@ -32,7 +32,7 @@ Oppimistani tukisi jos...
 - [Lisenssi](#lisenssi)
 
 ## Tietoja sovelluksesta
-Todo-lista on sovellus, joka kirjaa ylös käyttäjän haluamat tehtävät. Se antaa myös käyttäjän poistaa, lisätä ja yliviivata tehdyt tehtävät.
+Todo-lista on sovellus, joka kirjaa ylös käyttäjän haluamat tehtävät. Se antaa myös käyttäjän poistaa, lisätä ja yli viivata tehdyt tehtävät.
 
 ## Tunnetut virheet/bugit
 En itse törmännyt bugeihin. 

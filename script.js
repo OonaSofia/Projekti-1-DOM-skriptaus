@@ -22,10 +22,20 @@ function validateForm(e) {
     return;
   }
 
-  const uusiTehtava = document.createElement("li");
-  uusiTehtava.innerText = tehtava;
+  let uusiTehtava = document.createElement("li");
 
-  const poistaNappi = document.createElement("button");
+  let tehtavaTeksti = document.createElement("span");
+  tehtavaTeksti.innerText = tehtava;
+
+  let tehtyNappi = document.createElement("button");
+  tehtyNappi.innerText = "Tehty";
+  tehtyNappi.type = "button";
+
+  tehtyNappi.onclick = function () {
+    tehtavaTeksti.style.textDecoration = "line-through";
+  };
+
+  let poistaNappi = document.createElement("button");
   poistaNappi.innerText = "Poista";
   poistaNappi.type = "button";
 
@@ -34,6 +44,8 @@ function validateForm(e) {
   };
 
   uusiTehtava.appendChild(poistaNappi);
+  uusiTehtava.appendChild(tehtavaTeksti);
+  uusiTehtava.appendChild(tehtyNappi);
   document.getElementById("list").appendChild(uusiTehtava);
 
   document.getElementById("task").value = "";

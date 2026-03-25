@@ -2,7 +2,8 @@
 Tämän projektin nimi on Projekti 1: DOM-skriptaus, tekijä: Oona Kärkkäinen
 
 ## Verkkolinkit:
-Pääset julkaistuun sovellukseen käsiksi osoitteessa [google.com](https://google.com)
+Pääset julkaistuun sovellukseen käsiksi osoitteessa https://dom-skripti.netlify.app/
+
 Linkki projektin videoesittelyyn [google.com](https://google.com)
 
 

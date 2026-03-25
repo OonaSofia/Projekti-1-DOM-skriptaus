@@ -30,6 +30,8 @@ function validateForm(e) {
   let tehtyNappi = document.createElement("button");
   tehtyNappi.innerText = "Tehty";
   tehtyNappi.type = "button";
+  tehtyNappi.className = "btn btn-success btn-sm ms-2";
+
 
   tehtyNappi.onclick = function () {
     tehtavaTeksti.style.textDecoration = "line-through";
@@ -38,14 +40,15 @@ function validateForm(e) {
   let poistaNappi = document.createElement("button");
   poistaNappi.innerText = "Poista";
   poistaNappi.type = "button";
+  poistaNappi.className = "btn btn-danger btn-sm ms-2";
 
   poistaNappi.onclick = function () {
     uusiTehtava.remove();
   };
 
-  uusiTehtava.appendChild(poistaNappi);
   uusiTehtava.appendChild(tehtavaTeksti);
   uusiTehtava.appendChild(tehtyNappi);
+  uusiTehtava.appendChild(poistaNappi);
   document.getElementById("list").appendChild(uusiTehtava);
 
   document.getElementById("task").value = "";

@@ -38,10 +38,9 @@ Todo-lista on sovellus, joka kirjaa ylös käyttäjän haluamat tehtävät. Se a
 En itse törmännyt bugeihin. 
 
 ## Kuvakaappaukset
-Lisää tähän vähintään yksi kuvakaappaus toimivasta sovelluksesta  
-`![Kirjoittaminen](https://unsplash.com/photos/VBPzRgd7gfc)`
 
 Kuva: [Kelly Sikkema](https://unsplash.com/@kellysikkema)
+![Todo-sovelluksen kuvakaappaus](imagines/To-do_lista.jpeg)
 
 ## Teknologiat
 Kuvaa, mitä teknologioita käytettiin ja mikä oli niiden rooli projektissasi.  

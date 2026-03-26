@@ -34,6 +34,8 @@ function validateForm(e) {
   let tehtavaTeksti = document.createElement("span");
   tehtavaTeksti.innerText = tehtava;
 
+  //Luodaan tehty nappi
+
   let tehtyNappi = document.createElement("button");
   tehtyNappi.innerText = "Tehty";
   tehtyNappi.type = "button";
@@ -44,6 +46,7 @@ function validateForm(e) {
     tehtavaTeksti.style.textDecoration = "line-through";
   };
 
+  //Luodaan poista nappi 
   let poistaNappi = document.createElement("button");
   poistaNappi.innerText = "Poista";
   poistaNappi.type = "button";

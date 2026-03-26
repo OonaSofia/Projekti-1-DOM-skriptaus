@@ -15,8 +15,8 @@ Koen, että olen oppinut, kuinka julkaista Netlify palvelussa, sekä opin myös 
 Epäselväksi jäi en kerennyt katsoa miten Listan tiedot localstorageen
 Antaisin itselleni pisteitä seuraavasti: 8 pistettä, toiminnallisuuksia olisi voinut olla enemmän, sekä parempi UI. 
 ## Palaute opettajalle kurssista sekä itse opetuksesta tähän saakka
-Kurssi sekä lähiopetus ovat tuntuneet... 
-Oppimistani tukisi jos...
+Kurssi vaatii enemmän itsenäistä opiskelua, koska kokonaan verkkokurssi. Tämän myötä saatan jäädä joskus jälkeen aiheissa. 
+Oppimistani tukisi jos muistetaan käydä läpi kaikki workshopit ja jos saisi palautetta, että mikä on mennyt vaikka väärin yms. 
 
 
 ## Sisällysluettelo:

@@ -13,8 +13,7 @@ Parantamista olisi: UI ja CSS olisi vielä parannettavaa. Bootstrappia voisi my�
 Sovelluksesta jäi puuttumaan tiedon tallennetaan selaimeen, esim. localstorageen.
 Koen, että olen oppinut, kuinka julkaista Netlify palvelussa. 
 Epäselväksi jäi en kerennyt katsoa miten Listan tiedot localstorageen
-Antaisin itselleni pisteitä seuraavasti: xx/yy p
-
+Antaisin itselleni pisteitä seuraavasti: 8 pistettä, toiminnallisuuksia olisi voinut olla enemmän. 
 ## Palaute opettajalle kurssista sekä itse opetuksesta tähän saakka
 Kurssi sekä lähiopetus ovat tuntuneet... 
 Oppimistani tukisi jos...

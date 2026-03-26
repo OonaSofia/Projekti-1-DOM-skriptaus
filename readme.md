@@ -11,7 +11,7 @@ Linkki projektin videoesittelyyn [google.com](https://google.com)
 Mielestäni onnistuin hyvin dom skriptauksessa.
 Parantamista olisi: UI ja CSS olisi vielä parannettavaa. Bootstrappia voisi myös opetella käyttämään enemmän.
 Sovelluksesta jäi puuttumaan tiedon tallennetaan selaimeen, esim. localstorageen.
-Koen, että olen oppinut, kuinka julkaista Netlify palvelussa. 
+Koen, että olen oppinut, kuinka julkaista Netlify palvelussa, sekä opin myös eri lisensseitä ja miten lisätään lisenssi omaan repoon. 
 Epäselväksi jäi en kerennyt katsoa miten Listan tiedot localstorageen
 Antaisin itselleni pisteitä seuraavasti: 8 pistettä, toiminnallisuuksia olisi voinut olla enemmän. 
 ## Palaute opettajalle kurssista sekä itse opetuksesta tähän saakka
@@ -38,7 +38,6 @@ En itse törmännyt bugeihin.
 
 ## Kuvakaappaukset
 
-Kuva: [Kelly Sikkema](https://unsplash.com/@kellysikkema)
 ![Todo-sovelluksen kuvakaappaus](imagines/To-do_lista.jpeg)
 
 ## Teknologiat
@@ -46,11 +45,10 @@ Kuvaa, mitä teknologioita käytettiin ja mikä oli niiden rooli projektissasi.
 Käytin seuraavia teknologioita: `html`, `css`, ...
 
 ## Kiitokset
-Lista lähteistä ja esimerkeistä, joita käytit projektin aikana. Mainitse myös, jos käytit ChatGPT:tä tai muita tekoälytyökaluja koodauksen aikana ja kerro, miten ne auttoivat sinua.  
-- [John Doe](johndoe.com)  
-- [Beginners guide to BEM](link-goes-here.com)  
+-w3 schools(https://www.w3schools.com/)
+-bootstrap (https://getbootstrap.com/)
+-Mika Stenberg Web-sovelluksia Java Scriptin avulla
+-Apuna käytetty myös ChatGpt, esimerkiksi: css tiedoston muokkaamiseen, sekä koodin virheiden korjaamiseen.  
 
 ## Lisenssi
-Valitse projektille lisenssi seuraamalla tätä [opasta](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository).
-
-Esimerkki: MIT-lisenssi @ [tekijä](author.com)
+ MIT-lisenssi @Oona Sofia (author.com)

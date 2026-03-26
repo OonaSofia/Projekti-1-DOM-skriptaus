@@ -1,11 +1,16 @@
+// Estetää lomakkeen "normaali" lähetys, tarkistetaan tiedot itse JavaScriptillä
 function validateForm(e) {
   e.preventDefault();
 
+
+  // Nollataan aikaisemmat virheet: errorviesti ja punaiset reunat 
   document.getElementById("errorviesti").innerText = "";
   document.getElementById("task").style.border = "";
 
-  const tehtava = document.getElementById("task").value.trim();
+  let tehtava = document.getElementById("task").value.trim();
   let valid = true;
+
+    // Tarkistetaan, että kenttä ei ole tyhjä tai liian lyhyt
 
   if (tehtava === "") {
     document.getElementById("task").style.border = "2px solid red";
@@ -17,6 +22,7 @@ function validateForm(e) {
     document.getElementById("errorviesti").innerText =
       "Tehtävän pitää olla vähintään 3 merkkiä!";
     valid = false;
+    // Jos tarkistus epäonnistuu, tehtävää ei lisätä listaan
   }
   if (!valid) {
     return;
@@ -24,6 +30,7 @@ function validateForm(e) {
 
   let uusiTehtava = document.createElement("li");
 
+  // Luodaan tehtävän teksti ja lisätään siihen käyttäjän kirjoittama sisältö
   let tehtavaTeksti = document.createElement("span");
   tehtavaTeksti.innerText = tehtava;
 
@@ -49,7 +56,12 @@ function validateForm(e) {
   uusiTehtava.appendChild(tehtavaTeksti);
   uusiTehtava.appendChild(tehtyNappi);
   uusiTehtava.appendChild(poistaNappi);
+
+    // Lisätään uusi tehtävä listaan
   document.getElementById("list").appendChild(uusiTehtava);
+
+
+  // Tyhjentää syöttökentän uuden lisäyksen jälkeen
 
   document.getElementById("task").value = "";
 }

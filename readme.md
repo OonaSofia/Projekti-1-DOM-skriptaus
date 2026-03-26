@@ -11,9 +11,9 @@ Linkki projektin videoesittelyyn [google.com](https://google.com)
 Mielestäni onnistuin hyvin dom skriptauksessa.
 Parantamista olisi: UI ja CSS olisi vielä parannettavaa. Bootstrappia voisi myös opetella käyttämään enemmän.
 Sovelluksesta jäi puuttumaan tiedon tallennetaan selaimeen, esim. localstorageen.
-Koen, että olen oppinut, kuinka julkaista Netlify palvelussa, sekä opin myös eri lisensseitä ja miten lisätään lisenssi omaan repoon. 
+Koen, että olen oppinut, kuinka julkaista Netlify palvelussa, sekä opin myös eri lisensseitä ja miten lisätään lisenssi omaan repoon. Opin myös miten lomakkeen rakenne toimii javascriptissä ja miten toimiva lomake rakennetaan. 
 Epäselväksi jäi en kerennyt katsoa miten Listan tiedot localstorageen
-Antaisin itselleni pisteitä seuraavasti: 8 pistettä, toiminnallisuuksia olisi voinut olla enemmän. 
+Antaisin itselleni pisteitä seuraavasti: 8 pistettä, toiminnallisuuksia olisi voinut olla enemmän, sekä parempi UI. 
 ## Palaute opettajalle kurssista sekä itse opetuksesta tähän saakka
 Kurssi sekä lähiopetus ovat tuntuneet... 
 Oppimistani tukisi jos...
@@ -24,9 +24,7 @@ Oppimistani tukisi jos...
 - [Tietoja sovelluksesta](#tietoja-sovelluksesta)
 - [Tunnetut virheet/bugit](#Tunnetut virheet/bugit)
 - [Kuvakaappaukset](#kuvakaappaukset)
-- [Teknologiat](#teknologiat)
-- [Asennus](#asennus)
-- [Lähestymistapa](#lähestymistapa)
+-[Teknologiat](#teknologiat)
 - [Kiitokset](#kiitokset)
 - [Lisenssi](#lisenssi)
 
@@ -51,4 +49,4 @@ Käytin seuraavia teknologioita: `html`, `css`, ...
 -Apuna käytetty myös ChatGpt, esimerkiksi: css tiedoston muokkaamiseen, sekä koodin virheiden korjaamiseen.  
 
 ## Lisenssi
- MIT-lisenssi @Oona Sofia (author.com)
+ MIT-lisenssi @Oona Sofia (https://github.com/OonaSofia)

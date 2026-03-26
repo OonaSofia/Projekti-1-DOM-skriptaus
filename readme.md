@@ -39,8 +39,7 @@ En itse törmännyt bugeihin.
 ![Todo-sovelluksen kuvakaappaus](imagines/To-do_lista.jpeg)
 
 ## Teknologiat
-Kuvaa, mitä teknologioita käytettiin ja mikä oli niiden rooli projektissasi.  
-Käytin seuraavia teknologioita: `html`, `css`, ...
+Käytin projektissa HTMl, CSS ja JavaScriptiä. HTML:llä rakensin sovelluksen rakenteen, kuten otsikot, syötekentät, painikkeet ja tehtävälistan. CSS:llä muokkasin sovelluksen ulkoasua, kuten värejä, välejä, fontteja ja elementtien sijoittelua. JavaScriptillä toteutin sovelluksen toiminnallisuuden, esimerkiksi tehtävien lisäämisen, poistamisen ja merkitsemisen tehdyiksi.
 
 ## Kiitokset
 -w3 schools(https://www.w3schools.com/)

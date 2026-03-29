@@ -10,7 +10,7 @@ Mielestäni onnistuin hyvin dom skriptauksessa.
 Parantamista olisi: UI ja CSS olisi vielä parannettavaa. Bootstrappia voisi myös opetella käyttämään enemmän.
 Sovelluksesta jäi puuttumaan tiedon tallennetaan selaimeen, esim. localstorageen.
 Koen, että olen oppinut, kuinka julkaista Netlify palvelussa, sekä opin myös eri lisensseitä ja miten lisätään lisenssi omaan repoon. Opin myös miten lomakkeen rakenne toimii javascriptissä ja miten toimiva lomake rakennetaan. 
-Epäselväksi jäi en kerennyt katsoa miten Listan tiedot localstorageen
+Epäselväksi jäi: en kerennyt katsoa miten Listan tiedot localstorageen
 Antaisin itselleni pisteitä seuraavasti: 8 pistettä, toiminnallisuuksia olisi voinut olla enemmän, sekä parempi UI. 
 
 ## Palaute opettajalle kurssista sekä itse opetuksesta tähän saakka
